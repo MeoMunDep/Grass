@@ -43,12 +43,15 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```json
 {
+{
   "limit": 1,
   "countdown": 60,
   "country_time": "en-US",
   "delayEachAccount": [1, 81],
-  "maxReconnectAttempts": 5
+  "maxReconnectAttempts": 5,
+  "speed": "x1"  // choose this between "x1", "x1,25", "x2"
 }
+
 
 ```
 
@@ -61,6 +64,8 @@ uid
 ```
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.
+
+- Wallet gererator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
 
 ```txt - wallet address
 abc...xyz
@@ -80,6 +85,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd grass-main/grass; node bot`
+> To run the bot, use the following command: `cd grass-main/grass; node meomundep`
 
 🎇Enjoy!

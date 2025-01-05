@@ -34,9 +34,9 @@ create_default_configs() {
   "countdown": 60,
   "country_time": "en-US",
   "delayEachAccount": [1, 81],
-  "maxReconnectAttempts": 5
+  "maxReconnectAttempts": 5,
+  "speed": "x1"
 }
-
 EOL
 }
 
@@ -111,7 +111,7 @@ while true; do
             else
                 print_green "Using node_modules from current directory"
             fi
-            cd grass && node bot
+            node meomundep
             read -p "Press Enter to continue..."
             ;;
         4)
