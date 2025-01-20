@@ -55,12 +55,13 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```
 
-### 2. `datas.txt` 🗂️ - Take it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/5841)
+### 2. `datas.txt` 🗂️ - Take it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/45295)
+- Token
 
 ```txt
-uid
-uid
-uid
+ey...
+ey...
+ey...
 ```
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.
