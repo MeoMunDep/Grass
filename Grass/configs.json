@@ -4,5 +4,5 @@
   "country_time": "en-US",
   "delayEachAccount": [1, 81],
   "maxReconnectAttempts": 5,
-  "speed": "x1"
+  "speed": "x1,25"
 }
