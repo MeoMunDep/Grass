@@ -42,7 +42,6 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```json
 {
-{
   "limit": 1,
   "countdown": 60,
   "delayEachAccount": [1, 81],
